@@ -5,17 +5,17 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Varsha M K</h1>
-<h3 align="center">A passionate Full-Stack Developer & AI Enthusiast from India</h3>
+<h3 align="center">A passionate Full-Stack Developer & AI Enthusiast from bangalore, India</h3>
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+  <a href="https://www.linkedin.com/in/varsha-mk123/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mkvarsha678@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://varsha-mk123.github.io/">
+  <a href="[https://varsha-mk123.github.io/](https://varsha-mk123.github.io/varsha_portfolio/)">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -80,7 +80,7 @@
 | **[ZenPoseAssistant](https://github.com/varsha-mk123/ZenPoseAssistant)** | AI-powered yoga assistant for real-time pose estimation and correction. | ReactJS, CNN, LSTM, TensorFlow, MediaPipe |
 | **[NeuroSync](https://github.com/varsha-mk123/NeuroSync)** | AI-driven EEG solution for prosthetic and smart home control (National Ideathon Project). | Edge AI, Python, Signal Processing |
 | **[Automated Irrigation Using IoT](https://github.com/varsha-mk123/Automated-Irrigation-IoT)** | IoT-based system for efficient water management. (Published in IJRAR) | IoT, ML, Python |
-| **ML Voyager Nexus** | Your Interactive Portal to ML Insights. | Machine Learning, Python |
+| **[ML Voyager Nexus](https://github.com/varsha-mk123/Machine-Learning-Project)** | Your Interactive Portal to ML Insights. | Machine Learning, Python |
 
 ---
 
